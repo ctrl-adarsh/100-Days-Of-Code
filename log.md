@@ -2,8 +2,6 @@
 
 ### Day 1: Jan 27, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp on JavaScript & OOPS in JAVA.
 
 **Link(s) to work**
